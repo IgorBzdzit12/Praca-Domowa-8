@@ -1,0 +1,20 @@
+{
+    "name": "Josh", //klucz po lewej, wartość po prawej i tak w kazdym string
+    "weight": 175, //number
+    "age": 30, //number
+    "eye color": "brown", //string
+    "is Happy": true, //boolean
+    "cars": ["Chevy", "Honda"], //tablica array
+    "favorite book": { //object
+        "title": "The last Kingdom",
+        "author": "Bernard Cornwell",
+        "rating": 8.39
+    }
+}
+//JSON (JavaScript Object Notation) to lekki format wymiany danych, 
+//który jest łatwy do odczytania i zapisania przez ludzi oraz łatwy do 
+//zinterpretowania przez maszyny. Dane w JSON są zorganizowane w formie par 
+//klucz-wartość. JSON pozwala na przechowywanie różnych typów danych, takich jak:
+//string, boolean, number, arrays. object
+
+
