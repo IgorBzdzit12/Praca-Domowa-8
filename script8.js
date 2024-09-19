@@ -3,4 +3,4 @@
 
 const json = '{"name":"Mango","age":3,"isHappy":true}';
 const object = JSON.parse(json);
-console.log(obj);
+console.log(object);
